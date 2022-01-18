@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pchen66/panolens.js.git"
+    "url": "https://github.com/lobnaAcoba/panolens.js.git"
   },
   "keywords": [
     "panorama",
@@ -48,7 +48,7 @@
   "author": "pchen66",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pchen66/panolens.js/issues"
+    "url": "https://github.com/lobnaAcoba/panolens.js/issues"
   },
   "homepage": "https://pchen66.github.io/Panolens/",
   "eslintConfig": {
@@ -114,7 +114,7 @@
     "eslint": "^5.16.0",
     "google-closure-compiler": "^20190528.0.0",
     "http-server": "^0.12.3",
-    "jsdoc": "^3.6.6",
+    "jsdoc": "^3.6.7",
     "local-web-server": "^3.0.0",
     "nyc": "^14.1.1",
     "rollup": "^1.15.1",
@@ -125,7 +125,7 @@
     "xmlhttprequest": "^1.8.0"
   },
   "dependencies": {
-    "three": "^0.105.2"
+    "three": "^0.136.0"
   },
   "jspm": {
     "files": [
